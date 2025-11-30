@@ -30,7 +30,10 @@
 
 # Executables
 *.exe
+<<<<<<< HEAD
 *.out
+=======
+>>>>>>> 77b7b69 (Init commit)
 *.app
 *.i*86
 *.x86_64
@@ -50,6 +53,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+<<<<<<< HEAD
 
 # debug information files
 *.dwo
+=======
+>>>>>>> 77b7b69 (Init commit)
